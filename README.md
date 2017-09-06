@@ -1,0 +1,2 @@
+# akane
+script safelink akanekaze
